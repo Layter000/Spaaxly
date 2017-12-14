@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="firebase_database_url" translatable="false">https://spaaxly.firebaseio.com</string>
+  <string name="gcm_defaultSenderId" translatable="false">226108969388</string>
+  <string name="google_storage_bucket" translatable="false">spaaxly.appspot.com</string>
+  <string name="project_id" translatable="false">spaaxly</string>
+  <string name="google_api_key" translatable="false">AIzaSyDsnDFm56WWhoFAo16LPAniNi1-OwkddVg</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDsnDFm56WWhoFAo16LPAniNi1-OwkddVg</string>
+  <string name="google_app_id" translatable="false">1:226108969388:android:0b4df8c6ac8da397</string>
+  <string name="default_web_client_id" translatable="false">226108969388-27e1f39ca7sgjlv42uu6t08cb2k3npoq.apps.googleusercontent.com</string>
+</resources>

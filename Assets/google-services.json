@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "226108969388",
+    "firebase_url": "https://spaaxly.firebaseio.com",
+    "project_id": "spaaxly",
+    "storage_bucket": "spaaxly.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:226108969388:android:0b4df8c6ac8da397",
+        "android_client_info": {
+          "package_name": "com.LayterCompany.TapGame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "226108969388-675k5qb1blimckktaqvslo9jg4pfapcm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.LayterCompany.TapGame",
+            "certificate_hash": "35484d6a61d70a2abae15796df3a974cde061414"
+          }
+        },
+        {
+          "client_id": "226108969388-27e1f39ca7sgjlv42uu6t08cb2k3npoq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsnDFm56WWhoFAo16LPAniNi1-OwkddVg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "226108969388-27e1f39ca7sgjlv42uu6t08cb2k3npoq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

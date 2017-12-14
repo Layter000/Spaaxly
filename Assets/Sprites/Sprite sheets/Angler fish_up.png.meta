@@ -1,0 +1,442 @@
+fileFormatVersion: 2
+guid: 11debae16796126458d05613750ca293
+timeCreated: 1511289245
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Angler fish_up_0
+    21300002: Angler fish_up_1
+    21300004: Angler fish_up_2
+    21300006: Angler fish_up_3
+    21300008: Angler fish_up_4
+    21300010: Angler fish_up_5
+    21300012: Angler fish_up_6
+    21300014: Angler fish_up_7
+    21300016: Angler fish_up_8
+    21300018: Angler fish_up_9
+    21300020: Angler fish_up_10
+    21300022: Angler fish_up_11
+    21300024: Angler fish_up_12
+    21300026: Angler fish_up_13
+    21300028: Angler fish_up_14
+    21300030: Angler fish_up_15
+    21300032: Angler fish_up_16
+    21300034: Angler fish_up_17
+    21300036: Angler fish_up_18
+    21300038: Angler fish_up_19
+    21300040: Angler fish_up_20
+    21300042: Angler fish_up_21
+    21300044: Angler fish_up_22
+    21300046: Angler fish_up_23
+    21300048: Angler fish_up_24
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Angler fish_up_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 2204
+        width: 707
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Angler fish_up_1
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 2193
+        width: 699
+        height: 493
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Angler fish_up_2
+      rect:
+        serializedVersion: 2
+        x: 1458
+        y: 2166
+        width: 686
+        height: 524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Angler fish_up_3
+      rect:
+        serializedVersion: 2
+        x: 2177
+        y: 2174
+        width: 680
+        height: 519
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Angler fish_up_4
+      rect:
+        serializedVersion: 2
+        x: 2894
+        y: 2185
+        width: 677
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Angler fish_up_5
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1634
+        width: 681
+        height: 524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Angler fish_up_6
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 1634
+        width: 686
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Angler fish_up_7
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 1672
+        width: 693
+        height: 493
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Angler fish_up_8
+      rect:
+        serializedVersion: 2
+        x: 2146
+        y: 1669
+        width: 698
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Angler fish_up_9
+      rect:
+        serializedVersion: 2
+        x: 2869
+        y: 1672
+        width: 688
+        height: 497
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Angler fish_up_10
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1092
+        width: 678
+        height: 533
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Angler fish_up_11
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 1092
+        width: 675
+        height: 531
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Angler fish_up_12
+      rect:
+        serializedVersion: 2
+        x: 1459
+        y: 1104
+        width: 667
+        height: 519
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Angler fish_up_13
+      rect:
+        serializedVersion: 2
+        x: 2168
+        y: 1092
+        width: 667
+        height: 531
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Angler fish_up_14
+      rect:
+        serializedVersion: 2
+        x: 2878
+        y: 1092
+        width: 674
+        height: 533
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Angler fish_up_15
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 590
+        width: 679
+        height: 495
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Angler fish_up_16
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 588
+        width: 686
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Angler fish_up_17
+      rect:
+        serializedVersion: 2
+        x: 1436
+        y: 590
+        width: 688
+        height: 493
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Angler fish_up_18
+      rect:
+        serializedVersion: 2
+        x: 2154
+        y: 592
+        width: 692
+        height: 488
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Angler fish_up_19
+      rect:
+        serializedVersion: 2
+        x: 2873
+        y: 594
+        width: 693
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Angler fish_up_20
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 55
+        width: 693
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Angler fish_up_21
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 47
+        width: 694
+        height: 478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Angler fish_up_22
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 39
+        width: 698
+        height: 483
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Angler fish_up_23
+      rect:
+        serializedVersion: 2
+        x: 2158
+        y: 38
+        width: 704
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Angler fish_up_24
+      rect:
+        serializedVersion: 2
+        x: 2873
+        y: 36
+        width: 707
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,442 @@
+fileFormatVersion: 2
+guid: 895073b1457ce764d8265ce7477f2a2c
+timeCreated: 1511288772
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Seahorse_down_0
+    21300002: Seahorse_down_1
+    21300004: Seahorse_down_2
+    21300006: Seahorse_down_3
+    21300008: Seahorse_down_4
+    21300010: Seahorse_down_5
+    21300012: Seahorse_down_6
+    21300014: Seahorse_down_7
+    21300016: Seahorse_down_8
+    21300018: Seahorse_down_9
+    21300020: Seahorse_down_10
+    21300022: Seahorse_down_11
+    21300024: Seahorse_down_12
+    21300026: Seahorse_down_13
+    21300028: Seahorse_down_14
+    21300030: Seahorse_down_15
+    21300032: Seahorse_down_16
+    21300034: Seahorse_down_17
+    21300036: Seahorse_down_18
+    21300038: Seahorse_down_19
+    21300040: Seahorse_down_20
+    21300042: Seahorse_down_21
+    21300044: Seahorse_down_22
+    21300046: Seahorse_down_23
+    21300048: Seahorse_down_24
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Seahorse_down_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2790
+        width: 885
+        height: 1401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seahorse_down_1
+      rect:
+        serializedVersion: 2
+        x: 1646
+        y: 2827
+        width: 990
+        height: 1364
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seahorse_down_2
+      rect:
+        serializedVersion: 2
+        x: 3302
+        y: 2863
+        width: 1078
+        height: 1317
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seahorse_down_3
+      rect:
+        serializedVersion: 2
+        x: 4959
+        y: 2899
+        width: 1160
+        height: 1252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seahorse_down_4
+      rect:
+        serializedVersion: 2
+        x: 6619
+        y: 2937
+        width: 1233
+        height: 1178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seahorse_down_5
+      rect:
+        serializedVersion: 2
+        x: 8279
+        y: 2979
+        width: 1301
+        height: 1093
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seahorse_down_6
+      rect:
+        serializedVersion: 2
+        x: 9935
+        y: 3022
+        width: 1360
+        height: 999
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seahorse_down_7
+      rect:
+        serializedVersion: 2
+        x: 11599
+        y: 3044
+        width: 1403
+        height: 919
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seahorse_down_8
+      rect:
+        serializedVersion: 2
+        x: 13248
+        y: 3073
+        width: 1454
+        height: 832
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seahorse_down_9
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1726
+        width: 1497
+        height: 710
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seahorse_down_10
+      rect:
+        serializedVersion: 2
+        x: 1725
+        y: 1755
+        width: 1526
+        height: 608
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seahorse_down_11
+      rect:
+        serializedVersion: 2
+        x: 3353
+        y: 1741
+        width: 1576
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seahorse_down_12
+      rect:
+        serializedVersion: 2
+        x: 4987
+        y: 1661
+        width: 1599
+        height: 652
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seahorse_down_13
+      rect:
+        serializedVersion: 2
+        x: 6622
+        y: 1741
+        width: 1599
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seahorse_down_14
+      rect:
+        serializedVersion: 2
+        x: 8264
+        y: 1755
+        width: 1576
+        height: 608
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seahorse_down_15
+      rect:
+        serializedVersion: 2
+        x: 9913
+        y: 1755
+        width: 1541
+        height: 681
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seahorse_down_16
+      rect:
+        serializedVersion: 2
+        x: 11570
+        y: 1683
+        width: 1490
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seahorse_down_17
+      rect:
+        serializedVersion: 2
+        x: 13212
+        y: 1625
+        width: 1439
+        height: 941
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seahorse_down_18
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 177
+        width: 1381
+        height: 1050
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seahorse_down_19
+      rect:
+        serializedVersion: 2
+        x: 1682
+        y: 127
+        width: 1315
+        height: 1151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seahorse_down_20
+      rect:
+        serializedVersion: 2
+        x: 3317
+        y: 91
+        width: 1244
+        height: 1230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seahorse_down_21
+      rect:
+        serializedVersion: 2
+        x: 4946
+        y: 55
+        width: 1173
+        height: 1302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seahorse_down_22
+      rect:
+        serializedVersion: 2
+        x: 6586
+        y: 33
+        width: 1085
+        height: 1353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seahorse_down_23
+      rect:
+        serializedVersion: 2
+        x: 8228
+        y: 11
+        width: 991
+        height: 1389
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seahorse_down_24
+      rect:
+        serializedVersion: 2
+        x: 9870
+        y: 0
+        width: 890
+        height: 1401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
